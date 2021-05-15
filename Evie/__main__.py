@@ -1,3 +1,5 @@
+#by Eviral
+
 from sys import argv, exit
 from Evie import tbot
 from Evie import TOKEN
