@@ -1,3 +1,4 @@
+#EVIRAL
 from Evie import tbot, CMD_HELP, OWNER_ID
 import os, asyncio
 from Evie.modules.sql.antipin_sql import add_chat, rmchat, is_chat, get_all_chat_id, is_pin, rmpin, add_pin
